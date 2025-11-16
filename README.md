@@ -71,7 +71,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 |---------|-------------|----------|-----------|-------|
 | [Calorific - Nutrition Tracker](https://apps.apple.com/app/apple-store/id6645043253) | Quickly capture your meals and get instant nutritional insights. | **30% OFF** yearly plan with code **BLACKFRIDAY** | [Redeem deal](https://apps.apple.com/redeem?ctx=offercodes&id=6645043253&code=BLACKFRIDAY) | Nov 14 - Dec 2 |
 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code **BLACKFRIDAY** | [Redeem deal](https://apps.apple.com/redeem?ctx=offercodes&id=6458535284&code=BLACKFRIDAY) | Nov 14 - Dec 2 |
-| [Enhance Image Quality - Upscale](https://apps.apple.com/app/apple-store/id6736931330) | Sharpen and refine images and videos. Most enhansment types work completely offline without uploading images anywhere. | **40% OFF** Lifetime plan with code CYBERMON25 | [Redeem deal](https://apps.apple.com/redeem?ctx=offercodes&id=6736931330&code=CYBERMON25) | Nov 17 - Dec 3 |
+| [Enhance Image Quality - Upscale](https://apps.apple.com/app/apple-store/id6736931330) | Sharpen and refine images and videos. Most of the app models work completely offline. | **40% OFF** Lifetime plan with code CYBERMON25 | [Redeem deal](https://apps.apple.com/redeem?ctx=offercodes&id=6736931330&code=CYBERMON25) | Nov 17 - Dec 3 |
 | [Pretty Progress - Countdown](https://prettyprogress.app/download) | Beautiful countdown widgets on your Home Screen (iOS & Android). | **50% OFF** Lifetime plan. No code needed | Available  in Paywall | Nov 24 - Dec 3 |
 
 ## 🎮 Hardware & Gadgets
