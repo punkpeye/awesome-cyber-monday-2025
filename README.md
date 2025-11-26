@@ -123,6 +123,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | [AskCory](https://marketing.askcory.ai/) |	Elevate your marketing strategy with AI. Create customised plans and access industry benchmarks in minutes. | 67% OFF on all plans with code CM25 | [Get Deal](https://marketing.askcory.ai/billing) | Nov 28 - Dec 1 |
 | [UXWizz](https://www.uxwizz.com?ref=acm-2025) | Self-hosted Website Analytics with Session Recordings, Heatmaps, Error Tracking, AI and more. | 50% OFF - Buy Once, Use Forever | [Get Deal](https://uxwizz.com/pricing?ref=acm-2025) | Nov 23 - Dec 1 |
 | [Ring Tonic](https://ringtonic.app?ref=acm-2025) | Ring Tonic is a modern AI-Powered Call Tracking & Analytics platform that helps businesses understand which marketing efforts drive phone calls, automatically qualify leads, and extract valuable insights from every conversation—without the traditional 400-500% markup competitors charge. | 35% OFF & Lifetime Deal | [Get Deal](https://ringtonic.app/pricing?ref=acm-2025) | Nov 23 - Dec 2 |
+| [CampaignKit Email Validation](https://campaignkit.cc) | Email list validation and cleaning to protect your sender reputation and maximize deliverability. | 50% OFF with code BF2025 | [Get Deal](https://campaignkit.cc/pricing) | No 26 - Dec 6 |
 
 ## 🔎 SEO
 
