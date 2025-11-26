@@ -34,9 +34,10 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | [Tower](https://www.git-tower.com/) | Powerful Git client for Mac and Windows | 30% OFF any plan for new customers only, no coupon needed | [Get Deal](https://www.git-tower.com/pricing) | Nov 25 - Dec 7 |
 | [Vue PDF Viewer](https://www.vue-pdf-viewer.dev/?utm_source=github&utm_medium=referral&utm_campaign=bfcm2025&utm_content=awesome-cyber-monday-2025) | Vue PDF Viewer is a Vue 3 + Nuxt-ready PDF viewer with advanced tooling like annotations, theming, responsive layouts, and programmatic control designed for production apps. | 30% OFF Viewer / 40% OFF Viewer+Annotation (auto-applied) | [Get Deal](https://www.vue-pdf-viewer.dev/pricing?utm_source=github&utm_medium=referral&utm_campaign=bfcm2025&utm_content=awesome-cyber-monday-2025) | Nov 17 - Dec 1 |
 | [React PDF](https://www.react-pdf.dev/?utm_source=github&utm_medium=referral&utm_campaign=bfcm2025&utm_content=awesome-cyber-monday-2025) | React PDF is a React 18/19 + Next.js-ready PDF viewer, offering customizable UI, search, thumbnails, and smooth rendering optimized for large documents. | 30% OFF Developer / 40% OFF Organization (auto-applied) | [Get Deal](https://www.react-pdf.dev/pricing?utm_source=github&utm_medium=referral&utm_campaign=bfcm2025&utm_content=awesome-cyber-monday-2025) | Nov 17 - Dec 1 |
-| [RunJS](https://runjs.app) | JavaScript and TypeScript playground. Zero config needed. Write and run code with instant feedback. | **30% OFF** with code **BLACKFRIDAY2025** | Nov 17 - Dec 2 | 
+| [RunJS](https://runjs.app) | JavaScript and TypeScript playground. Zero config needed. Write and run code with instant feedback. | **30% OFF** with code **BLACKFRIDAY2025** | Nov 17 - Dec 2 |
 | [Scrape Creators](https://scrapecreators.com/) | Real-time social media scraping API | Use code BLACKFRIDAY2025 for 50% OFF | [Get Deal](https://scrapecreators.com/) | Nov 28 only |
 | [Hoverify](https://tryhoverify.com/) | All-in-one browser extension for web developers that helps you inspect, edit, test, debug, capture, and optimize websites faster. | 30% OFF on yearly subscription and LTD, no coupon needed | [Get Deal](https://tryhoverify.com/#pricing) | Nov 24 - Dec 4 |
+| [Uptimebeats](https://uptimebeats.com/) | Uptime Monitoring and Status Pages. | 10% off on LTD with code BF2025 | [Get Deal](https://uptimebeats.com/pricing) | Nov 24 - Dec 1 |
 
 ## 🎨 Design Software
 
@@ -58,15 +59,16 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | [Vue School](https://vueschool.io/sales/blackfriday?friend=VUEPDF) | Comprehensive video courses for Vue, Nuxt, TypeScript, Pinia, and modern frontend practices, trusted by the Vue.js community. | 60% OFF a Yearly or Lifetime plan. Plus get 7 BONUS resources (worth $2,040) absolutely free | [Get Deal](https://vueschool.io/sales/blackfriday?friend=VUEPDF) | Live now |
 | [Certificates.dev](https://certificates.dev/?friend=VUEPDF) | Get certified with official Vue & Nuxt certifications, plus expert-reviewed certifications for React, Angular & JavaScript. Includes hands-on coding exams, not just MCQ. Trusted by devs from IBM, Ford and 680+ companies. | Up to 60% OFF all mid & senior certifications + Bonus: 2 AI Dev Courses + Any Junior Certification included FREE with purchase. | [Get Deal](https://certificates.dev/?friend=VUEPDF) | Live now |
 | [1:1 Guide for Engineering Managers](https://karloscodes.gumroad.com/l/team-1-1) | A guide for building better 1:1s through trust, encouragement, and real connection. | 60% OFF LIFETIME access | [Get Deal](https://karloscodes.gumroad.com/l/team-1-1/BLACKFDAY26) | Live now |
+| [Ditectrev Shop](https://shop.ditectrev.com) | Resources in PDF & EPUB formats to pass your next Azure, AWS, GCP, Scrum certification by open-source driven EdTech startup Ditectrev. | 80% OFF | [Get Deal](https://karloscodes.gumroad.com/l/team-1-1/BLACKFDAY26) | Nov 28th - Dec 1st |
 
 ## 🚀 SaaS Products
 
 | Product | Description | Discount | Deal Link | Dates |
 |---------|-------------|----------|-----------|-------|
 | [Transcript LOL](https://transcript.lol?utm_source=github&utm_campaign=awesome-cyber-monday-2025)| Unlimited ai transcriptions, summaries, chat |  20% OFF with code **BF2025** (70% off on annual plans) | [Redeem deal](https://transcript.lol?utm_source=github&utm_campaign=awesome-cyber-monday-2025) | Nov 15 - Dec 7|
-| [SharpAPI](https://sharpapi.com/en/pricing) | AI-powered workflow automation API (e-commerce, marketing, HR & more) | **50% OFF** (use code `BF2025`) | [Get Deal](https://sharpapi.com/en/pricing) | Nov 24 – Dec 3 |  
-| [PostFlow](https://postflow.app/?ref=punk) | Social media scheduler and platform to manage ALL your social media content. One click, all platforms, hours saved. | **30% OFF** (LIFETIME) with code **BF2025** | [Get Lifetime Deal](https://postflow.app/?ref=punk) | Nov 24 – Dec 1 |  
-| [ChatUML](https://chatuml.com) | Generate Professional UML Diagrams with AI | **40% OFF** (use code `BLACKFRI25`) | [Get Deal](https://chatuml.com) | Nov 24 – Dec 1 |  
+| [SharpAPI](https://sharpapi.com/en/pricing) | AI-powered workflow automation API (e-commerce, marketing, HR & more) | **50% OFF** (use code `BF2025`) | [Get Deal](https://sharpapi.com/en/pricing) | Nov 24 – Dec 3 |
+| [PostFlow](https://postflow.app/?ref=punk) | Social media scheduler and platform to manage ALL your social media content. One click, all platforms, hours saved. | **30% OFF** (LIFETIME) with code **BF2025** | [Get Lifetime Deal](https://postflow.app/?ref=punk) | Nov 24 – Dec 1 |
+| [ChatUML](https://chatuml.com) | Generate Professional UML Diagrams with AI | **40% OFF** (use code `BLACKFRI25`) | [Get Deal](https://chatuml.com) | Nov 24 – Dec 1 |
 | [Notion Backups](https://notionbackups.com) | Easily back up and restore Notion workspaces | **40% off** on annual plans vs monthly pricing | [Get Started](https://notionbackups.com) | Nov 20 – Dec 4 |
 
 ## 🔧 Productivity Tools
@@ -82,13 +84,14 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | [DeskMinder²](https://appps.od.ua/deskminder/) | A simple yet effective macOS app for people who get easily distracted. Create quick reminders & start tasks on your desktop | 50% OFF Lifetime | [Get Deals](https://apps.apple.com/ua/app/deskminder-reminders-tasks/id6740942938?mt=12) | Nov 24 - 28 |
 | [Wins 3](https://wins.cool) |  Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. |40% OFF with code **BLACKFRIDAY2025** | [Get Deals](https://wins.cool/html/pricing.html#price-section-anchor)| Nov 15 - Dec 2 |
 | [LinkYourFile](https://linkyourfile.com)| Link your local files or folders in any web application. | Lifetime 50% OFF with code **BLACKWEEKS_2025** | [Get Lifetime Deal](https://linkyourfile.com) | Nov 26th - Dec 6th | 
+| [NoteSLAYER](https://note-slayer.com) |  Your all-in-one note & task manager. From swift note additions to intuitive Kanban boards on Linux, Mac & Windows. A unified platform for all your productivity needs. Dive in today!. |30% OFF with code **BLACKFRIDAY25** | [Get Deals](https://note-slayer.lemonsqueezy.com)| Nov 15 - Dec 31 |
 
 
 ## 🌐 Hosting & Infrastructure
 
 | Product | Description | Discount | Deal Link | Dates |
 |---------|-------------|----------|-----------|-------|
-| | | | | |
+| [DeployHQ](https://www.deployhq.com/) | Deploy code from your repository to servers automatically | 50% OFF for 3 months (auto-applied at checkout) | [Get Deal](https://www.deployhq.com/??utm_source=website&utm_medium=sponsor&utm_campaign=saas-black-friday-2025) | Nov 25 - Dec 2 |
 
 ## 📱 Mobile Apps
 
@@ -103,6 +106,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | [Walk Mate](https://apple.co/4mz7vev) | Daily random walking routes in your location. (iOS) | 50% OFF Lifetime with <strong>BLCKFRDY25</strong> | [Get Deal](https://apps.apple.com/redeem?ctx=offercodes&id=6739468121&code=BLCKFRDY25)<br><br>Available also on PayWall | Nov 13th - Dec 31th |
 | [EV Charge Stations Map](https://apple.co/3NWejUz) | Long distance EV route planner and charge stations. (iOS) | 50% OFF Lifetime with <strong>BLCKFRDY25</strong> | [Get Deal](https://apps.apple.com/redeem?ctx=offercodes&id=6466442459&code=BLCKFRDY25)<br><br>Available also on PayWall | Nov 13th - Dec 31th |
 | [Travel Route Map](https://apple.co/3NZrXqi) | Animate your travel destinations on the world map. (iOS) | 50% OFF Lifetime with <strong>BLCKFRDY25</strong> | [Get Deal](https://apps.apple.com/redeem?ctx=offercodes&id=6504141706&code=BLCKFRDY25)<br><br>Available also on PayWall | Nov 13th - Dec 31th |
+| [Tripsy Pro](http://tripsy.app/download) | Travel Planner for iOS and Mac. Finalist as App of the Year for iPhone 2024. | **50% OFF** on [Lifetime](https://buy.stripe.com/3cscMW3wb1aybqocMN?prefilled_promo_code=BLACKFRIDAY202550OFF) and [1-Year plan](https://buy.stripe.com/dR6aEO9Uz3iG2TS6os?prefilled_promo_code=BLACKFRIDAY202550OFF) | Nov 22 - Dec 2, 2025 |
 
 ## 🎮 Hardware & Gadgets
 
@@ -115,7 +119,8 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | Product | Description | Discount | Deal Link | Dates |
 |---------|-------------|----------|-----------|-------|
 | | | | | |
-
+**BLACKFRIDAY** | [Get Deal](https://blurdata.app/cybermonday) | Nov 28 - Dec 4 |
+| [blurdata.app](https://blurdata.app/#pricing) | Removes sensitive data from screenshots, offline and instant | **50% OFF** with code **BLACKFRIDAY** | [Get Deal](https://blurdata.app/#pricing) | Nov 25 - Dec 1 |
 ## 📊 Analytics & Marketing
 
 | Product | Description | Discount | Deal Link | Dates |
@@ -123,12 +128,14 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | [AskCory](https://marketing.askcory.ai/) |	Elevate your marketing strategy with AI. Create customised plans and access industry benchmarks in minutes. | 67% OFF on all plans with code CM25 | [Get Deal](https://marketing.askcory.ai/billing) | Nov 28 - Dec 1 |
 | [UXWizz](https://www.uxwizz.com?ref=acm-2025) | Self-hosted Website Analytics with Session Recordings, Heatmaps, Error Tracking, AI and more. | 50% OFF - Buy Once, Use Forever | [Get Deal](https://uxwizz.com/pricing?ref=acm-2025) | Nov 23 - Dec 1 |
 | [Ring Tonic](https://ringtonic.app?ref=acm-2025) | Ring Tonic is a modern AI-Powered Call Tracking & Analytics platform that helps businesses understand which marketing efforts drive phone calls, automatically qualify leads, and extract valuable insights from every conversation—without the traditional 400-500% markup competitors charge. | 35% OFF & Lifetime Deal | [Get Deal](https://ringtonic.app/pricing?ref=acm-2025) | Nov 23 - Dec 2 |
+| [CampaignKit Email Validation](https://campaignkit.cc) | Email list validation and cleaning to protect your sender reputation and maximize deliverability. | 50% OFF with code BF2025 | [Get Deal](https://campaignkit.cc/pricing) | No 26 - Dec 6 |
 
 ## 🔎 SEO
 
 | Product | Description | Discount | Deal Link | Dates |
 |---------|-------------|----------|-----------|-------|
 | [SEO Utils](https://seoutils.app?ref=acm-2025) | All-in-one SEO platform for traditional SEO, local SEO, and AI Search Optimization (GEO/AEO). Track rankings across Google, Google Maps, Bing, ChatGPT, AI Overviews, and AI Mode with powerful analytics and automation. Enjoy privacy-first GSC integration with data retention beyond 16 months, SERP & semantic clustering, topic clusters, and auto-indexing for Google, Bing, Yandex, and more. | 20% OFF & Lifetime Deal | [Get Deal](https://seoutils.app/pricing?ref=acm-2025) | Nov 23 - Dec 2 |
+| [Checkbot: SEO checker extension](https://www.checkbot.io/) | Checkbot for Chrome tests 100s of pages at a time for SEO/speed/security problems like broken links, duplicate titles/headings/pages, invalid HTML/CSS/JavaScript, insecure pages, redirect chains and more. Test unlimited sites as often as you want including local/development sites. | 50% off first year on yearly plans | [Get Deal](https://www.checkbot.io/?coupon=NOV25) | Nov 25 - Dec 5 |
 
 ---
 
