@@ -94,7 +94,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | [Timemator](https://timemator.com) |  Tracks your time while you work. Automatically!| Lifetime 50% OFF with code **TM-BLACKFRIDAY25** | [Get Lifetime Deal](https://timemator.com)| Nov 27 - Dec 5 |
 | [WhatPulse](https://whatpulse.org/?ref=acm2025) | WhatPulse maps your time, typing, clicking, and app usage into beautiful stats, and turns them into insights with your personal dashboard. | **35%** on first year on annual plan with code **BFCM2025** | [Get Deal](https://whatpulse.org/?ref=acm2025) | Nov 27 - Dec 3 |
 | [MuteDeck](https://mutedeck.com/?ref=acm2025) | Navigate any call app with consistent controls. Toggle Mute, Video, Record, Share, and Leave a meeting with a single press of a button. | **35%** off perpetual license with code **BFCM2025** | [Get Deal](https://mutedeck.com/?ref=acm2025) | Nov 27 - Dec 3 |
-
+| [Pictura: AI Photo Enhancer](https://apps.apple.com/us/app/pictura-ai-photo-enhancer/id6451364124) | Transform any photo into a crisp, studio-quality image in one tap. With AI-powered sharpening, colorisation, and upscaling (up to 4×), enhance selfies, anime scenes or vintage pictures effortlessly. | **40% OFF** Yearly automatically applied at checkout | [Redeem deal](https://apps.apple.com/us/app/pictura-ai-photo-enhancer/id6451364124) | Nov 27 - Dec 5 |
 
 ## 🌐 Hosting & Infrastructure
 
