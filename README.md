@@ -43,6 +43,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 
 | Product | Description | Discount | Deal Link | Dates |
 |---------|-------------|----------|-----------|-------|
+|[Rotato](https://rotato.app) | The original 3D mockup app — photorealistic device videos and images, just like an Apple ad. | 50% OFF with BF2025 | [Get Deal](https://rotato.app/pricing) | Nov 27 - Dec 5 |
 |[Sitely 6](https://sitely.app) | Visual + AI Website Builder for macOS · Build the website you always wanted, visually on your Mac. | 50% OFF - NO CODE REQUIRED | [Get Deal](https://sitely.app/store) | Nov 14 - Dec 5 |
 |[Savvyshot](https://savvyshot.app) | Snap and beautify screenshots instantly on Windows and Mac. | 50% OFF with code **CYBER2025** | [Get Deal](https://savvyshot.app/pricing) | Nov 18 - Dec 5 |
 |[MGC UI](https://mgcui.framer.website/?utm_source=punk) | Design system and UI Kit for Figma | 30% OFF with code **BF2025**| [Get Deal](https://store.mingcute.com//?utm_source=punk) | Nov 15 - Dec 5 |
