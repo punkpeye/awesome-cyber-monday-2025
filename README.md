@@ -75,6 +75,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | [PostFlow](https://postflow.app/?ref=punk) | Social media scheduler and platform to manage ALL your social media content. One click, all platforms, hours saved. | **30% OFF** (LIFETIME) with code **BF2025** | [Get Lifetime Deal](https://postflow.app/?ref=punk) | Nov 24 – Dec 1 |
 | [ChatUML](https://chatuml.com) | Generate Professional UML Diagrams with AI | **40% OFF** (use code `BLACKFRI25`) | [Get Deal](https://chatuml.com) | Nov 24 – Dec 1 |
 | [Notion Backups](https://notionbackups.com) | Easily back up and restore Notion workspaces | **40% off** on annual plans vs monthly pricing | [Get Started](https://notionbackups.com) | Nov 20 – Dec 4 |
+| Olivia | Market research recruiting on autopilot. | Over **50% off** on every slot with **`BLACKFRIDAY25`** | [useOlivia.com](https://useOlivia.com) | now – end of 2025 |
 
 ## 🔧 Productivity Tools
 
