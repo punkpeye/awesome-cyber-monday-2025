@@ -151,6 +151,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | [Ring Tonic](https://ringtonic.app?ref=acm-2025) | Ring Tonic is a modern AI-Powered Call Tracking & Analytics platform that helps businesses understand which marketing efforts drive phone calls, automatically qualify leads, and extract valuable insights from every conversation—without the traditional 400-500% markup competitors charge. | 35% OFF & Lifetime Deal | [Get Deal](https://ringtonic.app/pricing?ref=acm-2025) | Nov 23 - Dec 2 |
 | [Subscription Day](https://appps.od.ua/subscription-day/) | A small but so useful app for your Menu Bar to keep track of your paid subscriptions and analyze statistics. | 30% OFF & Lifetime Deal | [Get Deal](https://apps.apple.com/ua/app/subscription-day-calendar/id6743316600?mt=12) | Nov 30 - Dec 4 |
 | [CampaignKit Email Validation](https://campaignkit.cc) | Email list validation and cleaning to protect your sender reputation and maximize deliverability. | 50% OFF with code BF2025 | [Get Deal](https://campaignkit.cc/pricing) | No 26 - Dec 6 |
+| [BetterMerge](https://bettermerge.com/) | Mail merge tool for Gmail and Google Sheets to send personalized mass emails with tracking | 50% OFF on yearly plans (auto-applied) | [Get Deal](https://bettermerge.com/pricing?utm_source=github&utm_campaign=awesome-cyber-monday-2025) | Nov 24 - Dec 7 |
 
 ## 🔎 SEO
 
@@ -167,6 +168,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | Bit Integrations | Bit Integrations is a powerful no-code automation plugin and workflow automator built for WordPress users who want to simplify workflows and boost productivity — without writing a single line of code. | Upto 50% off | [Get Deal](https://bit-integrations.com/special-discount/?utm_source=github&utm_campaign=awesome-cyber-monday-2025) | Nov 23 - Nov 30 |
 | Bit Flow | Bit Flows is an Advanced, Super Fast, Drag & Drop automation plugin. Automation feels like Zapier inside WordPress. | Upto 45 %off | [Get Deal](https://bit-flows.com/special-discount/?utm_source=github&utm_campaign=awesome-cyber-monday-2025) | Nov 23 - Nov 30 |
 | Bit Social | Bit Social is an Advanced Social Media Scheduling and Auto Posting plugin for WordPress, making it the top alternative to Buffer and Publer. | Upto 62% off | [Get Deal](https://bit-social.com/special-discount/?utm_source=github&utm_campaign=awesome-cyber-monday-2025) | Nov 23 - Nov 30 |
+| [Tenwrite](https://tenwrite.com/) | Publish Google Docs to WordPress and Blogger with perfect formatting and automation | 50% OFF on yearly plans (auto-applied) | [Get Deal](https://tenwrite.com/pricing?utm_source=github&utm_campaign=awesome-cyber-monday-2025) | Nov 24 - Dec 7 |
 
 ---
 
