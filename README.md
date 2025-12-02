@@ -71,6 +71,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | [Coursera](https://imp.i384100.net/Qjm4Ba) | Learn from 350+ top universities and companies. | 40% off the annual price | [Get Deal](https://imp.i384100.net/Qjm4Ba) | Ends: December 1, 2025 11:59 PM UTC |
 | [AIDD – AI-Driven Development Masterclass](https://www.aidd.io?friend=VUEPDF) | Learn to code 20x faster with AI using real-world workflows like test generation, code reviews, and repo-aware agents. Includes free bonuses and a 30-day money-back guarantee. | 45% OFF | [Get Deal](https://www.aidd.io?friend=VUEPDF) | Live Now |
 | [Computer Graphics Zines](https://scroll-lock.gumroad.com/l/cgzines) | The perfect cheat sheet for all that want to learn linear algebra and trigonometry in an easy and engaging way. | 50% OFF | **50% OFF** with code **BLACKFRIDAY2025** | Nov 28 - Dec 10 |
+| [Udemy](https://www.udemy.com/course/awesome-html-incl-a11y-aria-css-html5-apis-pwa-seo/?referralCode=31BE9E1E4BF7204B9FAA) | Online Courses - Learn Anything, On Your Schedule | 80–90 OFF | [Get Deal](https://www.udemy.com/course/awesome-html-incl-a11y-aria-css-html5-apis-pwa-seo/?referralCode=31BE9E1E4BF7204B9FAA) | Live Now |
 
 ## 🚀 SaaS Products
 
